@@ -1,3 +1,2 @@
-#USO DE DOCUMENTACION  https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-##uso de documentacion pytorch https://docs.pytorch.org/docs/stable/generated/torch.quantile.html#torch-quantile
-#Uso de IA de la pagina de pytorch para encontrar funciones y apis.
+#USO DE DOCUMENTACION  https://realpython.com/python-requests/  https://github.com/ollama/ollama/blob/main/docs/api.md#generate-a-chat-completion  https://github.com/ollama/ollama-python
+#Uso de IA gemini para corregir error de Json y buscar libreria y documentacion
